@@ -1,0 +1,28 @@
+# Ignore data directories
+/data/
+/data/*
+
+# Ignore models directories
+/models/
+/models/*
+
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+.conda
+
+# Ignore configuration files
+*.env
+*.json
+*.yaml
